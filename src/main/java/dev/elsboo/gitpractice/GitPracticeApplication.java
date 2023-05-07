@@ -12,6 +12,7 @@ public class GitPracticeApplication {
         SpringApplication.run(GitPracticeApplication.class, args);
         log.info("dev work1");
         log.info("dev work2");
+        log.info("dev 1000");
     }
 
 }
