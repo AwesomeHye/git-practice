@@ -14,6 +14,7 @@ public class GitPracticeApplication {
         log.info("2052 work2");
         log.info("2052 work3");
         log.info("2052 work4");
+        log.info("2052 work5");
     }
 
 }
