@@ -10,8 +10,9 @@ public class GitPracticeApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitPracticeApplication.class, args);
-        log.info("dev work1");
+        log.info("2050 work1");
         log.info("dev work2");
+        log.info("2050 work3");
     }
 
 }
